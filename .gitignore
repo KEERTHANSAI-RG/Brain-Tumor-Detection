@@ -32,4 +32,5 @@ __pycache__/
 
 # Trained model weights
 models/*.pth
+!models/brain_tumor_resnet18.pth
 models/*.keras
