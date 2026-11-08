@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Dataset
+dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Trained model weights
+models/*.pth
+models/*.keras
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model weights
+models/*.pth
+models/*.keras
